@@ -3,7 +3,7 @@
 ### 👋 Olá, eu sou o Leonardo Verçosa de Oliveira Valle
 
 <p align="left"> 
-  <a href="www.linkedin.com/in/leonardo-vercosa-351821147" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leonardo-vercosa-351821147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://lattes.cnpq.br/3073595032508961" target="_blank"><img src="https://img.shields.io/badge/Lattes-CV-brightgreen.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...(logo do Lattes SVG)"></a>
 </p>
 
